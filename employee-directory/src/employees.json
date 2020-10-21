@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Susie Homemaker",
+    "occupation": "Fry Cook",
+    "location": "Topeka"
+  },
+  {
+    "id": 2,
+    "name": "Sam Smith",
+    "occupation": "Senior Programmer",
+    "location": "Lenexa"
+  },
+  {
+    "id": 3,
+    "name": "Dash Johnson",
+    "occupation": "Cashier",
+    "location": "Lenexa"
+  },
+  {
+    "id": 4,
+    "name": "Dexter Daring",
+    "occupation": "Senior Programmer",
+    "location": "Topeka"
+  },
+  {
+    "id": 5,
+    "name": "Autumn Johns",
+    "occupation": "Customer Service",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Doug Dougson",
+    "occupation": "Student",
+    "location": "Overland Park"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Dare",
+    "occupation": "Pilot",
+    "location": "Kansas City"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Adamson",
+    "occupation": "Executive Secretary",
+    "location": "Lenexa"
+  },
+  {
+    "id": 10,
+    "name": "Rocko Rockport",
+    "occupation": "Cashier",
+    "location": "Germantown, TX"
+  }
+]
