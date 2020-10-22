@@ -2,61 +2,71 @@
   {
     "id": 1,
     "name": "Susie Homemaker",
+    "email": "shome@hotmail.com",
     "occupation": "Fry Cook",
     "location": "Topeka"
   },
   {
     "id": 2,
     "name": "Sam Smith",
+    "email": "samsmith@yahoo.com",
     "occupation": "Senior Programmer",
     "location": "Lenexa"
   },
   {
     "id": 3,
     "name": "Dash Johnson",
+    "email": "djohnson@yahoo.com",
     "occupation": "Cashier",
     "location": "Lenexa"
   },
   {
     "id": 4,
     "name": "Dexter Daring",
+    "email": "dex_daring@yahoo.com",
     "occupation": "Senior Programmer",
     "location": "Topeka"
   },
   {
     "id": 5,
     "name": "Autumn Johns",
+    "email": "AJohns@gmail.com",
     "occupation": "Customer Service",
-    "location": "Nowhere, Kansas"
+    "location": "Germantown"
   },
   {
     "id": 6,
     "name": "Doug Dougson",
+    "email": "doug_doug@gmail.com",
     "occupation": "Student",
     "location": "Overland Park"
   },
   {
     "id": 7,
     "name": "Bugs Bunny",
+    "email": "bbunn@gmail.com",
     "occupation": "Looney Toon",
     "location": "A Rabbit Burrow"
   },
   {
     "id": 8,
     "name": "Johnny Dare",
+    "email": "Johnny_Dare@hotmail.com",
     "occupation": "Pilot",
     "location": "Kansas City"
   },
   {
     "id": 9,
     "name": "Tommy Adamson",
+    "email": "t_adam123@hotmail.com",
     "occupation": "Executive Secretary",
     "location": "Lenexa"
   },
   {
     "id": 10,
     "name": "Rocko Rockport",
+    "email": "rockrock@gmail.com",
     "occupation": "Cashier",
-    "location": "Germantown, TX"
+    "location": "Germantown"
   }
 ]
