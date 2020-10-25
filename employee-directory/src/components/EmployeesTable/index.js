@@ -1,6 +1,6 @@
 import React from 'react';
 import DataTable from 'react-data-table-component';
-import "../../styles/style.css";
+import "./style.css";
 
 
 const EmployeesTable = (props) => {

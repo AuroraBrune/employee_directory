@@ -14,7 +14,7 @@ function Search(props) {
                 <input
                     className="form-control"
                     type="text"
-                    placeholder="Search Name"
+                    placeholder="Search Last Name"
                     ref={textInput}
                 />
                 <button onClick={handleSubmit}>Submit</button>
